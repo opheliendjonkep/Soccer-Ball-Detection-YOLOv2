@@ -1,2 +1,2 @@
-ball
-goal post
+no_car
+car
